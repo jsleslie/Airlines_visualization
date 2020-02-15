@@ -1,3 +1,6 @@
-# Airlines visualization exercise
+# Visualizing Caribbean intra-regional travel routes
 
-Adding a new line via the terminal
+This project employs `Kepler.gl` to explore the types of flight connections between Caribbean countries by language. The underlying data was derived from the `airports` and `routes` provided by an open source project [Openflights.org](https://github.com/jpatokal/openflights/tree/master/data)
+
+
+The final map produced may be viewed [here](https://jsleslie.github.io/Airlines_visualization/doc/Intra-regional_routes.html)
